@@ -1,0 +1,5 @@
+E:\DotNet\HackerRank\HackerRank\CamelCase\bin\Debug\CamelCase.exe.config
+E:\DotNet\HackerRank\HackerRank\CamelCase\bin\Debug\CamelCase.exe
+E:\DotNet\HackerRank\HackerRank\CamelCase\bin\Debug\CamelCase.pdb
+E:\DotNet\HackerRank\HackerRank\CamelCase\obj\Debug\CamelCase.exe
+E:\DotNet\HackerRank\HackerRank\CamelCase\obj\Debug\CamelCase.pdb

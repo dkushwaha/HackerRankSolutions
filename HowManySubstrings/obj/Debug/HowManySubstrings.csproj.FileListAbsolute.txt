@@ -1,0 +1,6 @@
+E:\DotNet\HackerRank\HackerRank\HowManySubstrings\bin\Debug\HowManySubstrings.exe.config
+E:\DotNet\HackerRank\HackerRank\HowManySubstrings\bin\Debug\HowManySubstrings.exe
+E:\DotNet\HackerRank\HackerRank\HowManySubstrings\bin\Debug\HowManySubstrings.pdb
+E:\DotNet\HackerRank\HackerRank\HowManySubstrings\obj\Debug\HowManySubstrings.csprojResolveAssemblyReference.cache
+E:\DotNet\HackerRank\HackerRank\HowManySubstrings\obj\Debug\HowManySubstrings.exe
+E:\DotNet\HackerRank\HackerRank\HowManySubstrings\obj\Debug\HowManySubstrings.pdb

@@ -1,0 +1,6 @@
+E:\DotNet\HackerRank\HackerRank\InsertionSortPart1\bin\Debug\InsertionSortPart1.exe.config
+E:\DotNet\HackerRank\HackerRank\InsertionSortPart1\bin\Debug\InsertionSortPart1.exe
+E:\DotNet\HackerRank\HackerRank\InsertionSortPart1\bin\Debug\InsertionSortPart1.pdb
+E:\DotNet\HackerRank\HackerRank\InsertionSortPart1\obj\Debug\InsertionSortPart1.csprojResolveAssemblyReference.cache
+E:\DotNet\HackerRank\HackerRank\InsertionSortPart1\obj\Debug\InsertionSortPart1.exe
+E:\DotNet\HackerRank\HackerRank\InsertionSortPart1\obj\Debug\InsertionSortPart1.pdb

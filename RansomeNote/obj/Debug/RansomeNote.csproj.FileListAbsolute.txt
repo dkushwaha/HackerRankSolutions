@@ -1,0 +1,6 @@
+E:\DotNet\HackerRank\HackerRank\RansomeNote\bin\Debug\RansomeNote.exe.config
+E:\DotNet\HackerRank\HackerRank\RansomeNote\bin\Debug\RansomeNote.exe
+E:\DotNet\HackerRank\HackerRank\RansomeNote\bin\Debug\RansomeNote.pdb
+E:\DotNet\HackerRank\HackerRank\RansomeNote\obj\Debug\RansomeNote.csprojResolveAssemblyReference.cache
+E:\DotNet\HackerRank\HackerRank\RansomeNote\obj\Debug\RansomeNote.exe
+E:\DotNet\HackerRank\HackerRank\RansomeNote\obj\Debug\RansomeNote.pdb

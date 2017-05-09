@@ -1,0 +1,6 @@
+E:\DotNet\HackerRank\HackerRank\SuperReducedString\bin\Debug\SuperReducedString.exe.config
+E:\DotNet\HackerRank\HackerRank\SuperReducedString\bin\Debug\SuperReducedString.exe
+E:\DotNet\HackerRank\HackerRank\SuperReducedString\bin\Debug\SuperReducedString.pdb
+E:\DotNet\HackerRank\HackerRank\SuperReducedString\obj\Debug\SuperReducedString.exe
+E:\DotNet\HackerRank\HackerRank\SuperReducedString\obj\Debug\SuperReducedString.pdb
+E:\DotNet\HackerRank\HackerRank\SuperReducedString\obj\Debug\SuperReducedString.csprojResolveAssemblyReference.cache

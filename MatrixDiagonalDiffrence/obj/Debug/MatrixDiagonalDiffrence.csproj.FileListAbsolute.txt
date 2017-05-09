@@ -1,0 +1,6 @@
+E:\DotNet\HackerRank\HackerRank\MatrixDiagonalDiffrence\bin\Debug\MatrixDiagonalDiffrence.exe.config
+E:\DotNet\HackerRank\HackerRank\MatrixDiagonalDiffrence\bin\Debug\MatrixDiagonalDiffrence.exe
+E:\DotNet\HackerRank\HackerRank\MatrixDiagonalDiffrence\bin\Debug\MatrixDiagonalDiffrence.pdb
+E:\DotNet\HackerRank\HackerRank\MatrixDiagonalDiffrence\obj\Debug\MatrixDiagonalDiffrence.exe
+E:\DotNet\HackerRank\HackerRank\MatrixDiagonalDiffrence\obj\Debug\MatrixDiagonalDiffrence.pdb
+E:\DotNet\HackerRank\HackerRank\MatrixDiagonalDiffrence\obj\Debug\MatrixDiagonalDiffrence.csprojResolveAssemblyReference.cache

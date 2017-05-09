@@ -1,0 +1,6 @@
+E:\DotNet\HackerRank\HackerRank\TimeConversion\bin\Debug\TimeConversion.exe.config
+E:\DotNet\HackerRank\HackerRank\TimeConversion\bin\Debug\TimeConversion.exe
+E:\DotNet\HackerRank\HackerRank\TimeConversion\bin\Debug\TimeConversion.pdb
+E:\DotNet\HackerRank\HackerRank\TimeConversion\obj\Debug\TimeConversion.exe
+E:\DotNet\HackerRank\HackerRank\TimeConversion\obj\Debug\TimeConversion.pdb
+E:\DotNet\HackerRank\HackerRank\TimeConversion\obj\Debug\TimeConversion.csprojResolveAssemblyReference.cache

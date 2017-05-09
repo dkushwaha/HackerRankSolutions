@@ -1,0 +1,6 @@
+E:\DotNet\HackerRank\HackerRank\StringAnagram\bin\Debug\StringAnagram.exe.config
+E:\DotNet\HackerRank\HackerRank\StringAnagram\bin\Debug\StringAnagram.exe
+E:\DotNet\HackerRank\HackerRank\StringAnagram\bin\Debug\StringAnagram.pdb
+E:\DotNet\HackerRank\HackerRank\StringAnagram\obj\Debug\StringAnagram.exe
+E:\DotNet\HackerRank\HackerRank\StringAnagram\obj\Debug\StringAnagram.pdb
+E:\DotNet\HackerRank\HackerRank\StringAnagram\obj\Debug\StringAnagram.csprojResolveAssemblyReference.cache

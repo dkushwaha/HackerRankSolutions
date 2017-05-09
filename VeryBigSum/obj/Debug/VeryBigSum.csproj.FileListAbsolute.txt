@@ -1,0 +1,6 @@
+E:\DotNet\HackerRank\HackerRank\VeryBigSum\bin\Debug\VeryBigSum.exe.config
+E:\DotNet\HackerRank\HackerRank\VeryBigSum\bin\Debug\VeryBigSum.exe
+E:\DotNet\HackerRank\HackerRank\VeryBigSum\bin\Debug\VeryBigSum.pdb
+E:\DotNet\HackerRank\HackerRank\VeryBigSum\obj\Debug\VeryBigSum.csprojResolveAssemblyReference.cache
+E:\DotNet\HackerRank\HackerRank\VeryBigSum\obj\Debug\VeryBigSum.exe
+E:\DotNet\HackerRank\HackerRank\VeryBigSum\obj\Debug\VeryBigSum.pdb

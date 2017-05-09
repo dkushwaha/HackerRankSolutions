@@ -1,0 +1,6 @@
+E:\DotNet\HackerRank\HackerRank\AsciArt\bin\Debug\AsciArt.exe.config
+E:\DotNet\HackerRank\HackerRank\AsciArt\bin\Debug\AsciArt.exe
+E:\DotNet\HackerRank\HackerRank\AsciArt\bin\Debug\AsciArt.pdb
+E:\DotNet\HackerRank\HackerRank\AsciArt\obj\Debug\AsciArt.csprojResolveAssemblyReference.cache
+E:\DotNet\HackerRank\HackerRank\AsciArt\obj\Debug\AsciArt.exe
+E:\DotNet\HackerRank\HackerRank\AsciArt\obj\Debug\AsciArt.pdb

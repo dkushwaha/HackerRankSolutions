@@ -1,0 +1,6 @@
+E:\DotNet\HackerRank\HackerRank\TheCoinChangeProblem\bin\Debug\TheCoinChangeProblem.exe.config
+E:\DotNet\HackerRank\HackerRank\TheCoinChangeProblem\bin\Debug\TheCoinChangeProblem.exe
+E:\DotNet\HackerRank\HackerRank\TheCoinChangeProblem\bin\Debug\TheCoinChangeProblem.pdb
+E:\DotNet\HackerRank\HackerRank\TheCoinChangeProblem\obj\Debug\TheCoinChangeProblem.csprojResolveAssemblyReference.cache
+E:\DotNet\HackerRank\HackerRank\TheCoinChangeProblem\obj\Debug\TheCoinChangeProblem.exe
+E:\DotNet\HackerRank\HackerRank\TheCoinChangeProblem\obj\Debug\TheCoinChangeProblem.pdb

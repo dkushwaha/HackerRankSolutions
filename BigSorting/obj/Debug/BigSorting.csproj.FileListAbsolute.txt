@@ -1,0 +1,6 @@
+E:\DotNet\HackerRank\HackerRank\BigSorting\bin\Debug\BigSorting.exe.config
+E:\DotNet\HackerRank\HackerRank\BigSorting\bin\Debug\BigSorting.exe
+E:\DotNet\HackerRank\HackerRank\BigSorting\bin\Debug\BigSorting.pdb
+E:\DotNet\HackerRank\HackerRank\BigSorting\obj\Debug\BigSorting.csprojResolveAssemblyReference.cache
+E:\DotNet\HackerRank\HackerRank\BigSorting\obj\Debug\BigSorting.exe
+E:\DotNet\HackerRank\HackerRank\BigSorting\obj\Debug\BigSorting.pdb

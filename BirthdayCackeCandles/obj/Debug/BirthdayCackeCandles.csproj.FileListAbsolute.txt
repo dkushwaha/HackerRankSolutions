@@ -1,0 +1,6 @@
+E:\DotNet\HackerRank\HackerRank\BirthdayCackeCandles\bin\Debug\BirthdayCackeCandles.exe.config
+E:\DotNet\HackerRank\HackerRank\BirthdayCackeCandles\bin\Debug\BirthdayCackeCandles.exe
+E:\DotNet\HackerRank\HackerRank\BirthdayCackeCandles\bin\Debug\BirthdayCackeCandles.pdb
+E:\DotNet\HackerRank\HackerRank\BirthdayCackeCandles\obj\Debug\BirthdayCackeCandles.csprojResolveAssemblyReference.cache
+E:\DotNet\HackerRank\HackerRank\BirthdayCackeCandles\obj\Debug\BirthdayCackeCandles.exe
+E:\DotNet\HackerRank\HackerRank\BirthdayCackeCandles\obj\Debug\BirthdayCackeCandles.pdb

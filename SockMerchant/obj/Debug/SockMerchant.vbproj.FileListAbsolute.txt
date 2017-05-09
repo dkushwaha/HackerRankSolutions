@@ -1,0 +1,9 @@
+E:\DotNet\HackerRank\HackerRank\SockMerchant\bin\Debug\SockMerchant.exe.config
+E:\DotNet\HackerRank\HackerRank\SockMerchant\obj\Debug\SockMerchant.Resources.resources
+E:\DotNet\HackerRank\HackerRank\SockMerchant\obj\Debug\SockMerchant.vbproj.GenerateResource.Cache
+E:\DotNet\HackerRank\HackerRank\SockMerchant\bin\Debug\SockMerchant.exe
+E:\DotNet\HackerRank\HackerRank\SockMerchant\bin\Debug\SockMerchant.pdb
+E:\DotNet\HackerRank\HackerRank\SockMerchant\bin\Debug\SockMerchant.xml
+E:\DotNet\HackerRank\HackerRank\SockMerchant\obj\Debug\SockMerchant.exe
+E:\DotNet\HackerRank\HackerRank\SockMerchant\obj\Debug\SockMerchant.xml
+E:\DotNet\HackerRank\HackerRank\SockMerchant\obj\Debug\SockMerchant.pdb
